@@ -6,7 +6,7 @@ Title of the Document
 
 .. note::
 
-   This is only a template!
+   Kookaberry Documentation
 
 Contents
 --------
