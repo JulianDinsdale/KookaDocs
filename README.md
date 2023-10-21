@@ -1,2 +1,2 @@
-# kookaDocs Documents Template
+# KookaDocs Documents Template
  Template repository for Kookaberry  Read the Docs documents.
