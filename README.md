@@ -1,2 +1,2 @@
-# AustSTEM Documents Template
- Template repository for AustSTEM Read the Docs documents.
+# kookaDocs Documents Template
+ Template repository for Kookaberry  Read the Docs documents.
