@@ -14,6 +14,10 @@ Contents
 .. toctree::
 
    quickref.rst
+   kooka.rst
+   lsm303.rst
+   nrf51.rst
+   sh1106.rst
 
 
 :Copyright:
