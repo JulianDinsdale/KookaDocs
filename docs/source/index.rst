@@ -13,7 +13,7 @@ Contents
 
 .. toctree::
 
-   
+   quickref.rst
 
 
 :Copyright:
