@@ -3,7 +3,7 @@
 Reference for the Kookaberry
 ==================================
 
-.. image:: Kookaberry_RP2040.png
+.. image:: kooka_topbot.jpg
     :alt: Kookaberry board
     :width: 640px
 
