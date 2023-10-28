@@ -3,7 +3,7 @@
 Reference for the Kookaberry
 ==================================
 
-.. image:: kooka_topbot.jpg
+.. image:: kooka_topbot.png
     :alt: Kookaberry board
     :width: 400px
 
