@@ -5,7 +5,7 @@ Reference for the Kookaberry
 
 .. image:: kooka_topbot.jpg
     :alt: Kookaberry board
-    :width: 640px
+    :width: 400px
 
 This is a quick reference for the Kookaberry.  For further details see
 the documentation on the Kookaberry-specific modules just below.
