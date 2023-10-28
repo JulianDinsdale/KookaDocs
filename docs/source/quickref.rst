@@ -4,7 +4,7 @@ Reference for the Kookaberry
 ============================
 
 
-.. image:: Kookaberry_RP2040.png
+.. image:: images\Kookaberry_RP2040.png
     :alt: Kookaberry board
     :width: 400px
 
