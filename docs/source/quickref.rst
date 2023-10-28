@@ -1,9 +1,10 @@
 .. _kookaberry_quickref:
 
 Reference for the Kookaberry
-==================================
+============================
 
-.. image:: Action_Block.png
+
+.. image:: Kookaberry_RP2040.png
     :alt: Kookaberry board
     :width: 400px
 
