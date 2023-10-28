@@ -15,8 +15,7 @@ This is a quick reference for the Kookaberry.  For further details see
 the documentation on the Kookaberry-specific modules just below.
 
 .. toctree::
-   :maxdepth: 1
-
+    
    kooka.rst
    sh1106.rst
    lsm303.rst
