@@ -8,17 +8,15 @@ Kookaberry Documentation
 
    Kookaberry Documentation
 
+
+
 Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
 
    quickref.rst
-   kooka.rst
-   lsm303.rst
-   nrf51.rst
-   sh1106.rst
+   
 
 
 :Copyright:

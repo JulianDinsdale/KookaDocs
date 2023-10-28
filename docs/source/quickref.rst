@@ -220,3 +220,6 @@ See :ref:`kooka.Servo <kooka.Servo>`. ::
     s1.angle(45)        # move to 45 degrees
     s1.angle(-60, 1500) # move to -60 degrees in 1500ms
     s1.speed(50)        # for continuous rotation servos
+
+
+
