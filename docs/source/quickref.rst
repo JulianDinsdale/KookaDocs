@@ -6,7 +6,8 @@ Reference for the Kookaberry
 
 .. image:: images/Kookaberry_RP2040.png
     :alt: Kookaberry board
-    :width: 400px
+    :width: 600px
+    :align: center
 
 This is a quick reference for the Kookaberry.  For further details see
 the documentation on the Kookaberry-specific modules just below.
