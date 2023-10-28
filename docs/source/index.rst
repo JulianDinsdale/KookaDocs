@@ -14,7 +14,8 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 1
+   
    quickref.rst
    
 
