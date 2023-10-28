@@ -101,7 +101,7 @@ Use the :mod:`time <utime>` module::
 Pins and GPIO
 -------------
 
-See :ref:`machine.Pin <machine.Pin>`. ::
+See example below
 
     from machine import Pin
 
@@ -115,7 +115,7 @@ See :ref:`machine.Pin <machine.Pin>`. ::
 Timers
 ------
 
-See :ref:`pyb.Timer <pyb.Timer>`. ::
+See example below
 
     from machine import Timer
 
@@ -128,7 +128,7 @@ See :ref:`pyb.Timer <pyb.Timer>`. ::
 RTC (real time clock)
 ---------------------
 
-See :ref:`pyb.RTC <pyb.RTC>` ::
+See example below
 
     from machine import RTC
 
@@ -139,7 +139,7 @@ See :ref:`pyb.RTC <pyb.RTC>` ::
 PWM (pulse width modulation)
 ----------------------------
 
-See :ref:`machine.PWM <machine.PWM>`. ::
+See example below
 
     from machine import PWM
 
@@ -150,7 +150,7 @@ See :ref:`machine.PWM <machine.PWM>`. ::
 ADC (analog to digital conversion)
 ----------------------------------
 
-See :ref:`pyb.ADC <pyb.ADC>`. ::
+See see example below
 
     from machine import ADC
 
@@ -160,7 +160,7 @@ See :ref:`pyb.ADC <pyb.ADC>`. ::
 DAC (digital to analog conversion)
 ----------------------------------
 
-See :ref:`pyb.DAC <pyb.DAC>`. ::
+See see example below
 
     from machine import DAC
 
@@ -170,7 +170,7 @@ See :ref:`pyb.DAC <pyb.DAC>`. ::
 UART serial bus
 ---------------
 
-See :ref:`machine.UART <machine.UART>`. ::
+See example below
 
     from machine import UART
 
@@ -181,7 +181,7 @@ See :ref:`machine.UART <machine.UART>`. ::
 I2C bus
 -------
 
-See :ref:`machine.I2C <machine.I2C>`. ::
+See example below
 
     from machine import I2C
 
@@ -196,7 +196,7 @@ See :ref:`machine.I2C <machine.I2C>`. ::
 SPI bus
 -------
 
-See :ref:`machine.SPI <machine.SPI>`. ::
+See example below
 
     from machine import SPI
 
